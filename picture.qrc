@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background/file_manage.jpg</file>
+        <file>image/background/main_page.jpg</file>
+        <file>image/btn/btn_back.jpg</file>
+        <file>image/btn/btn_manage.jpg</file>
+        <file>image/btn/btn_new_f.jpg</file>
+        <file>image/btn/btn_dir_check.jpg</file>
+        <file>image/btn/btn_dir_check.png</file>
+        <file>image/btn/dir_ico.png</file>
+        <file>image/background/copy_page.jpg</file>
+        <file>image/btn/btn_copy.png</file>
+        <file>image/background/rename_page.jpg</file>
+        <file>image/background/qwert_keyboard.jpg</file>
+        <file>image/background/num_keyboard.jpg</file>
+        <file>image/background/file_dis.jpg</file>
+        <file>image/btn/run_monitor.png</file>
+        <file>image/background/step_manage.jpg</file>
+        <file>image/background/method_more.jpg</file>
+        <file>image/background/cycle_set.jpg</file>
+        <file>image/background/new_dir_file.jpg</file>
+    </qresource>
+</RCC>
